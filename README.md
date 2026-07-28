@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #  Ultimate Number Guessing Game
 
 A professional Python-based interactive **Number Guessing Game** where players try to guess a randomly generated number with different difficulty levels, scoring system, and leaderboard tracking.
@@ -56,3 +57,7 @@ This project is built to practice and demonstrate core Python programming concep
   4.2 Too Low ⬆
 5.Try to achieve the highest score
 6.Your score will be saved in leaderboard
+=======
+# Ultimate-Number-Guessing-Game
+A Python mini project that demonstrates core programming concepts through an interactive guessing game with scoring, difficulty levels, and persistent leaderboard storage.
+>>>>>>> eb88b18966f09a7633ca32c58188cb7c05d88e2f
